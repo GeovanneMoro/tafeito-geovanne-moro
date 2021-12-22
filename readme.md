@@ -1,3 +1,4 @@
-# ProjetoTaFeito-GeovanneMoro
+# tafeito-geovanne-moro
 
-Projeto da pós graduação - Geovanne Moro
+Aplicação Tafeito - módulo de Desenvolvimento de Software do front ao back-end
+npm run dev:server
